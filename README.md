@@ -33,16 +33,16 @@ O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
 
-Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
+ - Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
 
-Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
+ - Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
 
-Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
+ - Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
 
-Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
+ - Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
 
-Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
+ - Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
 
-Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+ - Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
 
-Aprendi sobre o conceito de objetos no JavaScript e o seu funcionamento, sua forma de armazenar qualquer tipo de dados e sua manipulação.
+ - Aprendi sobre o conceito de objetos no JavaScript e o seu funcionamento, sua forma de armazenar qualquer tipo de dados e sua manipulação.
