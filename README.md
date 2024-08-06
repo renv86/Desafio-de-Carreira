@@ -19,18 +19,19 @@ Conteúdo:
 
 
 
-O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+O que quero aprender sobre os assuntos que serão abordados nesse módulo 2?
 
 
- - Espero aprofundar o conhecimento em Arrays 
- - Absorver as novas informações sobre Funções, Tipo de dados e Utilitários
- - Dar continuidade na organização e otimização do LinkedIn
- - Absorver o maxímo possível do conceito sobre Gestão de tempo e Postura Profissíonal
+ - Aprendi sobre funções, o que são e como funcionam dentre suas formas variadas de utilização, como por exemplo o Arrow Function.
+ - A forma correta de tipagem e suas variaveis, como por exemplo os Tipos de Dados. Vimos sobre as Tuplas, Narrowing e também os literais entre outros.
+ - Aprendi também sobre os tipos de Utilitarios e suas variadas funções como Required, Pick, Omit entre outras. Exercitando na pratica a funcionalidade de cada uma.
+ - Aprendi sobre os metodos, tanto de string como de Arrays e sua importancia em otimizar o codigo, deixando mais pratico a execução. Testei na pratica através dos exercícios, a funcionalidade e as possibilidades de cada uma.
+ - Esse modulo 2 serviu para elevar os meus conhecimento, exercitar meu pensamento lógico, podendo resolver uma situção de varias formas e podendo sempre encontrar o metodo mais enxuto possivel.
 
 
 
 
-Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
+Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo 1?
 
 
  - Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
